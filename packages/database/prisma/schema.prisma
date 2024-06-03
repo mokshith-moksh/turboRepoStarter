@@ -15,4 +15,5 @@ datasource db {
 
 model USER {
   id String @id 
+  name String 
 }
